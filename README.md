@@ -23,14 +23,14 @@
 <details>
   <summary>🏆 Work GitHub Trophies (@Himanshu-Khanna)</summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Himanshu-Khanna&rank=S,AAA,AA,A,B,C&column=3&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Himanshu-Khanna&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15" />
   </p>
 </details>
 
 <details>
   <summary>🏆 Personal GitHub Trophies (@Himanshukhanna0)</summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Himanshukhanna0&rank=S,AAA,AA,A,B,C&column=3&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Himanshukhanna0&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15" />
   </p>
 </details>
 
