@@ -110,19 +110,43 @@ I'm always evolving with the tech landscape—from CMS development to SEO to aut
 ---
 
 ### 📊 GitHub Stats
-### 📊 Work GitHub Stats (@Himanshu-Khanna)
-![Work Stats](https://github-readme-stats.vercel.app/api?username=himanshu-work&show_icons=true&theme=vue)
-<a href="https://github.com/Himanshu-Khanna">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Khanna&theme=vue" alt="GitHub Streak" />
-  </a>
 
-### 🧪 Personal GitHub Stats (@himanshukhanna0)
-![Personal Stats](https://github-readme-stats.vercel.app/api?username=Himanshukhanna0&show_icons=true&theme=vue)
-<a href="https://github.com/Himanshu-Khanna">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshukhanna0&theme=vue" alt="GitHub Streak" />
-  </a>
+#### 💼 Work GitHub Stats (@Himanshu-Khanna)
+<p align="center">
+  <a href="https://github.com/Himanshu-Khanna">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Khanna&show_icons=true&theme=vue" alt="Work GitHub Stats" />
+  </a>
+  <a href="https://github.com/Himanshu-Khanna">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Khanna&theme=vue" alt="Work GitHub Streak" />
+  </a>
+</p>
 
-<!-- <p align="center">
+<details>
+  <summary>🧪 Personal GitHub Stats (@himanshukhanna0)</summary>
+  <p align="center">
+    <a href="https://github.com/Himanshukhanna0">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Himanshukhanna0&show_icons=true&theme=vue" alt="Personal GitHub Stats" />
+    </a>
+    <a href="https://github.com/Himanshukhanna0">
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshukhanna0&theme=vue" alt="Personal GitHub Streak" />
+    </a>
+  </p>
+</details>
+
+
+ <!-- ### 📊 Work GitHub Stats (@Himanshu-Khanna)
+  ![Work Stats](https://github-readme-stats.vercel.app/api?username=himanshu-work&show_icons=true&theme=vue)
+  <a href="https://github.com/Himanshu-Khanna">
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Khanna&theme=vue" alt="GitHub Streak" />
+    </a>
+  
+  ### 🧪 Personal GitHub Stats (@himanshukhanna0)
+  ![Personal Stats](https://github-readme-stats.vercel.app/api?username=Himanshukhanna0&show_icons=true&theme=vue)
+  <a href="https://github.com/Himanshu-Khanna">
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshukhanna0&theme=vue" alt="GitHub Streak" />
+    </a>
+
+ <p align="center">
   <a href="https://github.com/Himanshu-Khanna">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Khanna&show_icons=true&theme=vue" alt="GitHub Stats" />
   </a>
