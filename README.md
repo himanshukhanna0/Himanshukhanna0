@@ -26,7 +26,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Himanshu-Khanna&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15" />
   </p>
 </details>
-
+</br>
 <details>
   <summary>🏆 Personal GitHub Trophies (@Himanshukhanna0)</summary>
   <p align="center">
