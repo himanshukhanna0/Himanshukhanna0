@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Himanshu Khanna</h1>
 <p align="center">
-🚀 WordPress Backend Developer | SEO Specialist | Full Stack PHP Developer | Performance & UX Champion | API Integrator | Digital Optimizer
+🚀 WordPress Backend Developer | SEO Specialist | Full Stack PHP Developer | API Integrator | Performance & UX Champion | </br>Empowering Digital Transformation & Bringing Businesses Online
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Himanshu-Khanna&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshu-Khanna" /> </p>
