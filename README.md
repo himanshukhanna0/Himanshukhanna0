@@ -4,6 +4,11 @@
 
 </p>
 
+### 🔄 I'm active on two GitHub profiles
+
+- 💼 **Work Profile**: [@Himanshu-Khanna](https://github.com/Himanshu-Khanna)
+- 🧪 **Personal Profile**: [@Himanshukhanna0](https://github.com/Himanshukhanna0)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Himanshu-Khanna&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshu-Khanna" /> </p>
 ### 🏆 GitHub Trophies
 
